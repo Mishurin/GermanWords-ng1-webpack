@@ -4,6 +4,11 @@
     "sourceMap": true
   },
   "files": [
-    "src/app.d.ts"
+    "src/app.d.ts",
+    "typings/mocha/mocha.d.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "bower_components"
   ]
 }
