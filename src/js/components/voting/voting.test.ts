@@ -1,4 +1,3 @@
-/*
 describe('my app tests', () => {
 
-});*/
+});
