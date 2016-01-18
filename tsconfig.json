@@ -6,8 +6,8 @@
   "files": [
     "src/app.d.ts",
     "typings/mocha/mocha.d.ts",
-    "typings/angular/angular.d.ts",
-    "typings/angular/angular-mocks.d.ts",
+    "typings/angularjs/angular.d.ts",
+    "typings/angularjs/angular-mocks.d.ts",
     "typings/assertion-error/assertion-error.d.ts",
     "typings/chai/chai.d.ts",
     "typings/jquery/jquery.d.ts"
